@@ -1,2 +1,1 @@
-Arquivo readme.md
-Sem mais informações para o momento
+Comando GIT REVERT
